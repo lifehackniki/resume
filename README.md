@@ -8,7 +8,7 @@
 | ------------- | ------------------------------------------------------------------------------------------------|
 名前             | 梶沼　翼(KAJINUMA Tsubasa)
 生年月日         | 1988/01/16
-Twitter         | [@tsubasa_cocre](https://twitter.com/tsubasa_cocre)
+Twitter         | [@lifehackniki](https://twitter.com/lifehackniki)
 Facebook        | [https://www.facebook.com/tsubas.kajinuma](https://www.facebook.com/tsubasa.kajinuma)
 Linkedin        | [https://www.linkedin.com/in/tsubasa-kajinuma/](https://www.linkedin.com/in/tsubasa-kajinuma/)
 

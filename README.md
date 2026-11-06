@@ -19,7 +19,7 @@ Linkedin        | [https://www.linkedin.com/in/tsubasa-kajinuma/](https://www.li
 | 年代 | 出来事 |
 | ------------- | ------------- |
 |2020~現在| 株式会社コクリ 代表取締役 [https://coc.re/](https://coc.re)
-|2019~2020| 個人事業主 [https://chocopie116.me/](https://chocopie116.me)
+|2019~2020| 個人事業主
 |2016~2019| 株式会社サポーターズ(株式会社VOYAGE GROUP子会社)
 |2012~2016| 株式会社VOYAGE GROUP(現:株式会社CARTA HOLDINGS) [https://cartaholdings.co.jp/](https://cartaholdings.co.jp)
 |2010~2012| Hokkaido University Civil Engineering 
